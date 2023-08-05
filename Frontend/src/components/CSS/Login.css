@@ -1,0 +1,35 @@
+.textHeadStyle{
+    font-family: var(--playfair);
+}
+
+.space{
+    margin:15px !important
+}
+.bg-btn{
+    background-color: var(--orange);
+    border: none !important;
+
+}
+.bg-btn:hover{
+    background-color: var(--orange);
+    box-shadow: inset 2px 2px 5px orange,inset -2px -2px 5px orangered;
+}
+
+
+.form-floating input{
+/* padding-left: -500px; */
+width: 400px;
+margin-left: 450px;
+
+}
+
+.form-floating label{
+    padding-left: 100px;
+}
+.container{
+   border: 2px solid black;
+   margin-top: 50px;
+   border-radius: 20px;
+   width: 200px;
+   background-image: url('https://tse2.mm.bing.net/th?id=OIP.VQZ_yCPuTg-5hF9dN9MylwHaE8&pid=Api&P=0&h=180');
+}
